@@ -10,6 +10,7 @@ O useEffect é um Hook do React usado para lidar com efeitos colaterais em compo
 
 
 3- Exemplo Usestate
+
 import React, { useState } from 'react';
 
 function Contador() {
@@ -28,6 +29,7 @@ function Contador() {
 
 
 4- Exemplo UseEffect
+
 import React, { useState, useEffect } from 'react';
 
 function Exemplo() {
