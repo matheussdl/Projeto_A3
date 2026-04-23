@@ -4,7 +4,9 @@ O useState é um Hook do React que permite adicionar estado local a componentes 
 
 
 2- O que é UseEffect
+
 O useEffect é um Hook do React usado para lidar com efeitos colaterais em componentes funcionais, como buscar dados de API, manipular o DOM diretamente, configurar subscrições ou timers. Ele executa código após a renderização, permitindo que a interface seja atualizada sem bloquear o navegador. O useEffect substitui métodos de ciclo de vida de componentes de classe, como componentDidMount, componentDidUpdate e componentWillUnmount.
+
 
 
 3- Exemplo Usestate
@@ -22,6 +24,7 @@ function Contador() {
     </div>
   );
 }
+
 
 
 4- Exemplo UseEffect
