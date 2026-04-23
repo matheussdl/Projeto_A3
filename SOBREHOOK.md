@@ -1,5 +1,6 @@
 1- O que é usestate?
-O useState é um Hook do React (versão 16.8+) que permite adicionar estado local a componentes funcionais. Ele gerencia valores que mudam ao longo do tempo (como formulários, contadores ou visibilidade), forçando o componente a renderizar novamente quando o valor é atualizado. Retorna um array com o valor atual e uma função para alterá-lo. O useState recebe o valor inicial e retorna um par: o valor atual e uma função de atualização.
+
+O useState é um Hook do React que permite adicionar estado local a componentes funcionais. Ele gerencia valores que mudam ao longo do tempo (como formulários, contadores ou visibilidade), forçando o componente a renderizar novamente quando o valor é atualizado. Retorna um array com o valor atual e uma função para alterá-lo. O useState recebe o valor inicial e retorna um par: o valor atual e uma função de atualização.
 
 
 2- O que é UseEffect
